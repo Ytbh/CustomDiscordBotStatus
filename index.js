@@ -17,4 +17,4 @@ client.on('ready', () => {
  client.user.setActivity(`YOUR BOT STATUS`, { type: 'PLAYING'})
 })//PLAYING, LISTENING, STREAMING, WATCHING, dnd, IDLE
 
-client.login(process.env.token);
+client.login(process.env.token);//Create a new Secrets Environment Variables at the Lock button on the left menu. Name the KEY as "token" and fill the VALUE with your bot token
