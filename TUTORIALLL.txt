@@ -1,0 +1,10 @@
+Pertama, isi dulu Status yang kamu pengen untuk Bot mu punya. PLAYING nya juga bisa di edit jadi WATCHING, LISTENING, STREAMING, dnd, dan IDLE
+
+Kedua, bikin Secret baru di gambar gembok dengan urutan begini :
+
+Key : TOKEN
+Value : token bot mu pak
+
+Ketiga, run 
+
+Keempat, sambungin ke uptimerobot.com
